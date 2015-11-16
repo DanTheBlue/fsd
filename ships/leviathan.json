@@ -4,6 +4,10 @@
 	"ship_details" : {
 		"crew" : 6495,
 		"length" : 1.745,
+		"image" : "TDS_Leviathan",
+		"alternate_colours" : [
+			"TDS_Leviathan_Pro"
+		],
 		"weapons" : [
 			{
 				"name" : "Tempest Canon",

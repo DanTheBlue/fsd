@@ -1,0 +1,22 @@
+{
+	"name" : "Leviathan",
+	"manufacturer" : "TDS",
+	"ship_details" : {
+		"crew" : 6495,
+		"length" : 1.745,
+		"weapons" : [
+			{
+				"name" : "Tempest Canon",
+				"range" : 15,
+				"effects" : [
+					"Slows ship"
+				]
+			},
+			{
+				"name" : "Fusion Beam",
+				"range" : 20,
+				"effects" : []
+			}
+		]
+	}
+}
